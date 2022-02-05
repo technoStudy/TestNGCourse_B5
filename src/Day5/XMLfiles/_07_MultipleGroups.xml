@@ -1,0 +1,16 @@
+<suite name="Test Suite with Groups">
+
+    <groups>
+        <run>
+            <include name="Regression"></include>
+            <include name="SmokeTest"></include>
+        </run>
+    </groups>
+
+    <test name="Run Regression and Smoke Test">
+        <classes>
+            <class name="Day5._04_SecondGroupClass"></class>
+        </classes>
+    </test>
+
+</suite>

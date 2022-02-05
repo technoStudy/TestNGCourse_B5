@@ -1,0 +1,16 @@
+<suite name="Regression Test Suite">
+
+    <groups>
+        <run>
+            <include name="Regression"></include>
+        </run>
+    </groups>
+
+
+    <test name="Regression Test Run">
+        <classes>
+            <class name="Day5._03_Groups"></class>
+        </classes>
+    </test>
+
+</suite>
