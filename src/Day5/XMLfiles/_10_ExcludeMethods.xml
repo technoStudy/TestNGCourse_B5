@@ -1,0 +1,10 @@
+<suite name="Test Suite">
+    <test name="Test">
+        <classes>
+            <class name="Day5._03_Groups"></class>
+            <methods>
+                <exclude name="Test3"></exclude>
+            </methods>
+        </classes>
+    </test>
+</suite>

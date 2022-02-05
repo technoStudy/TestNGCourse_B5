@@ -1,0 +1,17 @@
+<suite name="Test Suite SmokeTest">
+
+    <test name="SmokeTest">
+        <!-- If you put <groups> inside <test> it'll affect only that specific <test> tag -->
+        <groups>
+            <run>
+                <include name="SmokeTest"></include>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="Day5._03_Groups"></class>
+            <class name="Day5._04_SecondGroupClass"></class>
+        </classes>
+    </test>
+
+</suite>
