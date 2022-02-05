@@ -1,0 +1,17 @@
+<!-- Test1 and Test2 tag names should different -->
+
+<suite name="Test Suite">
+    <test name="Test1">
+        <classes>
+            <class name="Day1._01_TestNG_TestAnnotation"></class>
+        </classes>
+    </test>
+
+    <test name="Test2">
+        <classes>
+            <class name="Day2.AssertionTasks._01_TestButtons"></class>
+        </classes>
+    </test>
+</suite>
+
+<!-- We are going to use multiple <test> tags when we need to provide different data or different browser -->
