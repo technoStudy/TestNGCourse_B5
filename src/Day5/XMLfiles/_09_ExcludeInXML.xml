@@ -1,0 +1,17 @@
+<!-- Exclude keyword will run all the @Test except the ones with "Regression" group -->
+
+<suite name="Test Suite">
+
+    <groups>
+        <run>
+            <exclude name="Regression"></exclude>
+        </run>
+    </groups>
+
+    <test name="Test">
+        <classes>
+            <class name="Day5._04_SecondGroupClass"></class>
+        </classes>
+    </test>
+
+</suite>
