@@ -1,4 +1,4 @@
-package Day6;
+package Day6.ContactUs;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
