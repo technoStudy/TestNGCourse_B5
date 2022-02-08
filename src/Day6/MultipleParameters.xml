@@ -1,0 +1,10 @@
+<suite name="Test Suite">
+    <test name="Test">
+        <parameter name="enquiry" value="Test test test test test test"></parameter>
+        <parameter name="searchItem" value="Mac"></parameter>
+        <classes>
+            <class name="Day6.ContactUs._01_ContactUsFunction"></class>
+            <class name="Day6.Search._02_SearchFunction"></class>
+        </classes>
+    </test>
+</suite>
