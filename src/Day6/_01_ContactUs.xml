@@ -1,0 +1,10 @@
+<suite name="Test Suite">
+    <test name="Contact Us Test">
+
+        <parameter name="enquiry" value="Your price is too high"></parameter>
+
+        <classes>
+            <class name="Day6._01_ContactUsFunction"></class>
+        </classes>
+    </test>
+</suite>
