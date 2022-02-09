@@ -1,0 +1,10 @@
+<suite name="Test Suite">
+    <test name ="Test">
+        <parameter name="parameter1" value="Test1"></parameter>
+        <parameter name="parameter2" value="Test2"></parameter>
+
+        <classes>
+            <class name="Day6.OneTestMultipleParameters"></class>
+        </classes>
+    </test>
+</suite>
