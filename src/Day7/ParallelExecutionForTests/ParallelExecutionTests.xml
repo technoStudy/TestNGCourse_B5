@@ -1,0 +1,15 @@
+<suite name="Parallel Test Execution" parallel="tests" thread-count="2">
+
+    <test name="Test1">
+        <classes>
+            <class name="Day7.ParallelExecutionForTests.FirstClass"></class>
+        </classes>
+    </test>
+
+    <test name="Test2">
+        <classes>
+            <class name="Day7.ParallelExecutionForTests.SecondClass"></class>
+        </classes>
+    </test>
+
+</suite>
