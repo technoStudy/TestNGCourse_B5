@@ -1,0 +1,7 @@
+<suite name="Test Suite">
+    <test name="Test with DataProvider">
+        <classes>
+            <class name="Day8._02_SearchFunctionWithDataProvider"></class>
+        </classes>
+    </test>
+</suite>
