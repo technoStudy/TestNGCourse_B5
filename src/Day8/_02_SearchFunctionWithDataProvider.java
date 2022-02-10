@@ -71,6 +71,4 @@ public class _02_SearchFunctionWithDataProvider {
         };
     }
 
-
-
 }
